@@ -19,7 +19,7 @@ public class GameResource {
 	private GameService service;
 	
 	@GetMapping
-	public ResponseEntity<List<GameDTO>> findAl(){
+	public ResponseEntity<List<GameDTO>> findAll(){
 		List<GameDTO> list = service.fndAll();
 		return ResponseEntity.ok().body(list);
 	}
