@@ -23,6 +23,7 @@ INDEX VERSION 1.131+C:\Users\Vinic\Documents\GitHub\DsPesquisa\.metadata\.plugin
 3810260762.index
 3555041305.index
 611268296.index
+1965174767.index
 1675838580.index
 2487182606.index
 2411248382.index
